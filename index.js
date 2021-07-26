@@ -46,5 +46,9 @@ selectId('#pathname').textContent = location.pathname;
 
 
 //navigator
+console.log(navigator.userAgent);
 
-//console.log(navigator.userAgent);
+//history
+console.log(history);
+//window.history.back();
+//history.go(-2);
